@@ -1,7 +1,7 @@
 const menu = require('./src/menu')
-const appetizers = require('./src/appetizers')
-const mains = require('./src/mains')
-const desserts = require('./src/desserts')
+const appetizers = require('./src/courses/appetizers')
+const mains = require('./src/courses/mains')
+const desserts = require('./src/courses/desserts')
 const daysOfTheWeek = require('./src/daysOfTheWeek')
 
 appetizers.forEach(appetizer => menu.addDishToCourse('appetizers', appetizer))
