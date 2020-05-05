@@ -47,4 +47,4 @@ module.exports = [
   'Japo tofu vegetables',
   'Curry with tofu and vegetables, and rice',
   'Arepas with beans, avocado and banana'
-];
+]

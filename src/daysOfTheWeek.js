@@ -6,4 +6,4 @@ module.exports = [
   'Friday',
   'Saturday',
   'Sunday'
-];
+]

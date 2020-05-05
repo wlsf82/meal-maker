@@ -9,4 +9,4 @@ module.exports = [
   'Water',
   'Romeo and Juliet',
   'Space cake'
-];
+]

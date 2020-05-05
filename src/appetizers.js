@@ -18,4 +18,4 @@ module.exports = [
   'Stuffed avocado',
   'Pineaple quezadilla',
   'Farofa da Clê'
-];
+]
