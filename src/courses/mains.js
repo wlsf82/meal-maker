@@ -15,6 +15,7 @@ module.exports = [
   'Vegetables soup',
   'Minestrone soup',
   'Pea soup',
+  'Capeletti soup',
   'Lentils soup',
   'Beans soup',
   'Burrito in the oven',
@@ -28,6 +29,7 @@ module.exports = [
   'Lentils Bolognese',
   'Ala Minuta',
   'Sandwich',
+  'Hamburger',
   'Burrito bowl',
   'Polenta with sauce',
   'Falafel pita',
@@ -46,5 +48,6 @@ module.exports = [
   'Ervilha torta com ovo e molho vermelho',
   'Japo tofu vegetables',
   'Curry with tofu and vegetables, and rice',
-  'Arepas with beans, avocado and banana'
+  'Arepas with beans, avocado and banana',
+  'Gnocchi'
 ]
