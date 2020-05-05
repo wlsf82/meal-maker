@@ -1,6 +1,6 @@
 # 👩‍🍳 Weekly menu 👨‍🍳
 
-[![BCH compliance](https://bettercodehub.com/edge/badge/wlsf82/meal-maker?branch=master)](https://bettercodehub.com/)
+[![BCH compliance](https://bettercodehub.com/edge/badge/wlsf82/meal-maker?branch=master)](https://bettercodehub.com/) ![Lint and tests](https://github.com/wlsf82/meal-maker/workflows/Lint%20and%20tests/badge.svg)
 
 Freedom project adapted from the Objects section of [Codecademy's Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) course.
 
