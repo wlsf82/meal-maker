@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Freedom project adapted from the Objects section of Codecademy's Introduction to JavaScript course.",
   "main": "weeklyMenu.js",
-  "directories": {
-    "test": "tests"
-  },
   "scripts": {
     "lint": "npx standard --env jasmine",
     "lint:fix": "npx standard --env jasmine --fix",
