@@ -2,8 +2,11 @@ module.exports = [
   'Ice cream',
   'Cake',
   'Coffee',
+  'Tea',
   'Juice',
   'Coke',
   'Fruits',
-  'Water'
+  'Water',
+  'Romeo and Juliet',
+  'Space cake'
 ];

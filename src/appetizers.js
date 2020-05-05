@@ -6,5 +6,16 @@ module.exports = [
   'Cheese and olives',
   'Basil, cherry tomato, and mozzarella cheese\'s sticks',
   'Cheese fingers',
-  'Cheese balls'
+  'Cheese balls',
+  'Pão de Queijo',
+  'Garlic bread',
+  'Carrots\' sticks',
+  'Rocket salad',
+  'Maionese',
+  'Brocoli, apple, red onion, and yougurt salad',
+  'Salpicão',
+  'Cuscus salad',
+  'Stuffed avocado',
+  'Pineaple quezadilla',
+  'Farofa da Clê'
 ];
