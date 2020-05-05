@@ -7,9 +7,9 @@
     "test": "tests"
   },
   "scripts": {
-    "lint": "npx standard",
-    "lint:fix": "npx standard --fix",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "npx standard --env jasmine",
+    "lint:fix": "npx standard --env jasmine --fix",
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/wlsf82/meal-maker#readme",
   "devDependencies": {
+    "jasmine": "^3.5.0",
     "standardjs": "^1.0.0-alpha"
   }
 }
