@@ -1,0 +1,49 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  color: #FF7F50;
+  text-align: center;
+  border-bottom: grey solid 1px;
+}
+
+#button-area, #menu {
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.day-of-the-week {
+  color: rgb(19, 119, 119);
+  font-weight: bold;
+}
+
+p {
+  color: #0A3232;
+}
+
+button {
+  padding: 10px;
+  border-radius: 5px;
+  border-color: #FF7F50;
+  background-color: #FF7F50;
+  color: #FBFCFC;
+  font-size: large;
+}
+
+@media screen and (max-device-width: 480px) {
+  header, button, p {
+    font-size: 200%;;
+  }
+
+  p {
+    text-align: left;
+  }
+
+  button {
+    padding: 20px;
+  }
+}
