@@ -1,0 +1,31 @@
+{
+  "name": "meal-maker",
+  "version": "1.0.0",
+  "description": "Freedom project adapted from the Objects section of Codecademy's Introduction to JavaScript course.",
+  "main": "weeklyMenu.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "lint": "npx standard",
+    "lint:fix": "npx standard --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlsf82/meal-maker.git"
+  },
+  "keywords": [
+    "weekly",
+    "menu"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr-filho.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wlsf82/meal-maker/issues"
+  },
+  "homepage": "https://github.com/wlsf82/meal-maker#readme",
+  "devDependencies": {
+    "standardjs": "^1.0.0-alpha"
+  }
+}
