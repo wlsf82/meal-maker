@@ -15,6 +15,28 @@ describe('menu', () => {
     menu.addDishToCourse(desserts, dessert)
   })
 
+  describe('addDishToCourse', () => {
+    const expectedResult = 2
+
+    it(appetizers, () => {
+      const numberOfRegisteredAppetizers = menu.addDishToCourse(appetizers, appetizer)
+
+      expect(numberOfRegisteredAppetizers).toBe(expectedResult)
+    })
+
+    it(mains, () => {
+      const numberOfRegisteredMains = menu.addDishToCourse(mains, main)
+
+      expect(numberOfRegisteredMains).toBe(expectedResult)
+    })
+
+    it(desserts, () => {
+      const numberOfRegisteredDesserts = menu.addDishToCourse(desserts, dessert)
+
+      expect(numberOfRegisteredDesserts).toBe(expectedResult)
+    })
+  })
+
   describe('getRandomDishFromCourse', () => {
     it(appetizers, () => {
       const actualResult = menu.getRandomDishFromCourse(appetizers)
