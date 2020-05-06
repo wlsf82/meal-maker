@@ -38,5 +38,9 @@ Sunday: Cherry tomatos and letuce salad, Ramen, and Coffee.
 ==============================================================
 ```
 
+## Web version
+
+The web version of this program is available throught the following URL: https://weekly-menu.s3.eu-central-1.amazonaws.com/index.html
+
 ___
 Made with ❤️ by [Walmyr Filho](https://walmyr-filho.com).
