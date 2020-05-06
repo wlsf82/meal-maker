@@ -39,6 +39,14 @@ button {
   font-size: large;
 }
 
+h1:hover {
+  color: #e37046;
+}
+
+button:hover {
+  background-color: #e37046;
+}
+
 @media screen and (max-device-width: 480px) {
   header, button, p {
     font-size: 200%;;
