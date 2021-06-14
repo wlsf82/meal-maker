@@ -39,4 +39,4 @@ Sunday: Cherry tomatos and letuce salad, Ramen, and Coffee.
 ```
 
 ___
-Made with ❤️ by [Walmyr Filho](https://walmyr-filho.com).
+Made with ❤️ by [Walmyr Filho](https://walmyrfilho.com).
